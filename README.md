@@ -1,4 +1,5 @@
 从头开始实现一个react单页面开发
+
 1.首先在命令行工具里面进入到该项目目录下，然后添加package.json文件，执行命令：npm init，可自行添加一些信息，一路回车即可。
 
 2.创建webpack.config.js文件
